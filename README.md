@@ -2,7 +2,6 @@
 
 Analysis of 1.9 million bikeshare trips in Toronto using pandas and NetworkX, including temporal patterns, station-level analytics, and network analysis with PageRank.
 
-> A [PySpark version](https://github.com/laurabenkel/toronto-bikeshare-spark) of this analysis is also available, demonstrating the same logic using distributed computing.
 
 ## The problem
 
